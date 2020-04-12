@@ -18,7 +18,6 @@ public class MorningZombie{
 		JOptionPane.showMessageDialog(null, "Jk there is no way I can do this all day");
 		JOptionPane.showMessageDialog(null, "Im almost done with the whole entire thing so just wait a little bit");
 		JOptionPane.showMessageDialog(null, "ok Im done now thank you for wasting you time and I hope that next lesson is better that this one"); 
-		
 	}
 	
 
